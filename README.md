@@ -34,4 +34,4 @@ Re-login.
 > ./install.sh  
 
 ## 6. Install Tensorflow
-pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v411 tensorflow-gpu
+> pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v411 tensorflow-gpu  
