@@ -32,3 +32,6 @@ Re-login.
 > ./jetson_clocks.sh  
 > cd JetsonXavier/JetPack4.1.1/python3.6/scripts  
 > ./install.sh  
+
+## 6. Install Tensorflow
+pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v411 tensorflow-gpu
